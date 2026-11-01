@@ -14,7 +14,7 @@ It's a method to build a new website, or to audit and improve an existing one.
 
 The method has 34 steps, one file each, in `steps/`. Steps not written yet are listed in `README.md` as coming soon.
 
-Every written step has the same 4 parts: why it matters, mandatory rules, recommended practices, and a checklist of yes or no lines.
+Every written step has the same 4 parts: why it matters, the rules in build order (each labeled mandatory or recommended), a checklist with at least one yes or no line per rule (the recommended ones marked), and the next step.
 
 Step checklists are run only to audit an existing site; a new site applies the rules while it is built, and its checks run at the pre-launch checklist step (step 28).
 

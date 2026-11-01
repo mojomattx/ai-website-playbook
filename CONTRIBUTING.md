@@ -25,7 +25,7 @@ A pull request is a proposed change that we review before it goes in.
 - It applies to any website, not just yours.
 - It says why the rule matters, and what goes wrong without it.
 - It has a source or real experience behind it, like an official guide or something that happened on a site you worked on.
-- A new checklist item is a yes or no line that a person or an AI can check.
+- Every new rule comes with at least one checklist item: a yes or no line that a person or an AI can check.
 
 A rule for one site only belongs in that site's own setup file, not here.
 
