@@ -568,7 +568,7 @@ Check that the site is technically done, which means it meets the rules of the s
 
 Check that the SEO is technically done, which means it meets the rules of the technical SEO and sitemap steps, so search engines can index the site.
 
-Check that your [wiki](02-project-knowledge-base.md) and SOPs are written, so everything you add later follows them.
+Check that your [wiki](02-project-knowledge-base.md) and [SOPs](03-website-sop.md) are written, so everything you add later follows them.
 
 Run the pre-launch checklist: every page you launch is complete, and the site passes a free site audit, like Ahrefs Webmaster Tools (free on your own verified site), before it goes public.
 

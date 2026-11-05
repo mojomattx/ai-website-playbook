@@ -196,7 +196,7 @@ Level: Mandatory
 
 **List every script or tool you build in one catalogue, and always check it before you build a new one.**
 
-**How to do it:** Create one page in the wiki called "Tools".
+**How to do it:** Create one page in the [wiki](02-project-knowledge-base.md) called "Tools".
 
 Add one line per tool: its name, what it does, and where it is saved.
 
@@ -262,7 +262,7 @@ Level: Recommended
 
 **Stack your rules in layers, from general to specific, and let the most specific layer win.**
 
-**How to do it:** Order the layers like this: rules for every site, then for your type of site, your language, your tech stack (the tools your site is built and run with), your project, your voice, and each template.
+**How to do it:** Order the layers like this: rules for every site, then for your type of site, your language, your [tech stack](01-website-project-plan.md#pick-the-tech-stack-that-fits-your-site) (the tools your site is built and run with), your project, your voice, and each template.
 
 When two layers say different things, follow the more specific one.
 

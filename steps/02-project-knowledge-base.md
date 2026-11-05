@@ -2,7 +2,7 @@
 
 Step 2 of 34.
 
-It comes after step 1, Write your website project plan, and before step 3, Write SOPs for every task (coming soon).
+It comes after step 1, Write your website project plan, and before step 3, Write SOPs for every task.
 
 ## Why it matters
 
@@ -46,7 +46,7 @@ Level: Mandatory
 
 **How to do it:** Create one page for each of these: an overview of the project, the brand style guide, the content guidelines, design, images, author bios, and social media accounts.
 
-Your SOPs (an SOP is a process made of actions to take, like a checklist) and a reading order for the wiki come on top of these: the SOPs are covered in the next step, and the reading order further down this step.
+Your SOPs (an SOP is a process made of actions to take, like a checklist) and a reading order for the wiki come on top of these: the [SOPs](03-website-sop.md) are covered in the next step, and the reading order further down this step.
 
 Write the few facts you already know on each page, and add the rest as you go.
 
@@ -409,7 +409,7 @@ When you run the audit again, lines already marked yes are skipped, unless the f
 
 ## Next step
 
-Next comes step 3, Write SOPs for every task (coming soon).
+Next comes step 3, Write SOPs for every task.
 
 In step 3, you write the step-by-step SOP for every task on your site, so every page gets built the same way, the right way.
 

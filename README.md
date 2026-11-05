@@ -48,7 +48,7 @@ Point it at this repo and ask it to read [AGENTS.md](AGENTS.md) first.
 
 1. [Write your website project plan](steps/01-website-project-plan.md): your goal, your audience, your templates, your costs, and what to build first.
 2. [Build your project knowledge base](steps/02-project-knowledge-base.md): one home for your project's facts, rules, decisions, and progress.
-3. Write SOPs for every task (coming soon): an SOP is a process made of actions to take, like a checklist, so every task gets done the same way.
+3. [Write SOPs for every task](steps/03-website-sop.md): an SOP is a process made of actions to take, like a checklist, so every task gets done the same way.
 4. Write your brand style guide (coming soon): your brand, your voice, and the style rules every page follows.
 5. Secure your website and protect visitor data (coming soon): keep your site safe, and collect only the data you need.
 6. Make your website fast (coming soon): pages that load quickly on phones and computers.
